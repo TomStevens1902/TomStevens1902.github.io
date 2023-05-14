@@ -76,7 +76,7 @@ pre {
     background-color: #111;
 }
 input#s {
-    background-image: url("./../images/dark-search.png");
+    background-image: url("../images/dark-search.png");
 }
 .site-title a,
 .widget-title,

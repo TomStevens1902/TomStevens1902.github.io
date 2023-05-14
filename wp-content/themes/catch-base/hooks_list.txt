@@ -1,0 +1,48 @@
+#This is the list of hooks supported bt Catch Base by default in their respective order in the files. 
+
+
+In catch-base/content-page.php:
+	catchbase_before_page_container
+
+
+In catch-base/content-single.php:
+	catchbase_before_post_container
+
+
+In catch-base/content.php:
+	catchbase_before_entry_container
+
+
+In catch-base/footer.php:
+	catchbase_after_content
+	catchbase_footer
+	catchbase_after
+
+In catch-base/header.php:
+	catchbase_doctype
+	catchbase_before_wp_head
+	catchbase_before
+	catchbase_header
+	catchbase_after_header
+	catchbase_before_content
+	catchbase_content
+
+
+In catch-base/page.php:
+	catchbase_comment_section
+
+
+In catch-base/sidebar-secondary.php:
+	catchbase_before_secondary_sidebar
+	catchbase_after_secondary_sidebar
+
+
+In catch-base/sidebar.php:
+	catchbase_before_secondary
+	catchbase_before_primary_sidebar
+	catchbase_after_primary_sidebar
+	catchbase_after_secondary'
+
+
+In catch-base/single.php:
+	catchbase_comment_section
