@@ -4,9 +4,6 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
-	
 	>
 <channel>
 	<title>
@@ -14,7 +11,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../index.html</link>
 	<description>Game programmer portfolio</description>
-	<lastBuildDate>Sun, 14 May 2023 02:02:18 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 14 May 2023 17:22:54 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
