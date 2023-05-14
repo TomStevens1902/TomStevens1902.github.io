@@ -11,10 +11,10 @@
 <channel>
 	<title>
 	Comments for Tom Stevens	</title>
-	<atom:link href="http://tomstevens1902.github.io/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://tomstevens1902.github.io/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
 	<description>Game programmer portfolio</description>
-	<lastBuildDate>Sun, 14 May 2023 17:03:39 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 14 May 2023 02:02:18 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
