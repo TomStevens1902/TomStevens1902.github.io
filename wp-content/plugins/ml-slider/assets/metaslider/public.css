@@ -193,7 +193,7 @@ body .metaslider .flexslider .flex-direction-nav li {
     box-shadow: none!important;
     display: block;
     background-color: transparent;
-    background-image: url('./bg_direction_nav.png');
+    background-image: url('http://tomstevens1902.github.io/wp-content/plugins/ml-slider/assets/metaslider/bg_direction_nav.png');
     background-repeat:  no-repeat;
     position: absolute;
     right: 10px;
@@ -273,7 +273,7 @@ body .metaslider .flexslider .flex-direction-nav li {
 	box-shadow: none !important;
 	display: block;
 	background-color: transparent;
-	background-image: url('./bg_direction_nav.png');
+	background-image: url('http://tomstevens1902.github.io/wp-content/plugins/ml-slider/assets/metaslider/bg_direction_nav.png');
 	background-repeat: no-repeat;
 	position: absolute;
 	top: 50%;
