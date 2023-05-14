@@ -31,7 +31,7 @@ a,
 .sidebar-header-right .widget_nav_menu li a:focus,
 .entry-title a:hover,
 #featured-content .entry-title a:hover {
-    color: #e4741f;
+	color: #6495ED;
 }
 a:hover {
 	color: #ddd;
@@ -43,13 +43,13 @@ a:hover {
 .sidebar-header-right .widget_nav_menu .sub-menu li a:hover,
 .sidebar-header-right .widget_nav_menu .sub-menu li a:focus,
 #search-toggle:hover {
-	color: #e4741f;
+	color: #6495ED;
 }
 #site-title {
     text-shadow: 2px 2px #000;
 }
 .site-title a:hover {
-	color: #e4741f;
+	color: #6495ED;
 }
 #site-description {
     color: #777;
@@ -244,7 +244,7 @@ th, h1, h2, h3 {
 #nav-below .wp-pagenavi a,
 #nav-below .wp-pagenavi span,
 .page-links span {
-    color: #e4741f;
+	color: #6495ED;
 }
 
 #content #infinite-handle span button:hover,
